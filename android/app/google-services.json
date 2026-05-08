@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389649979218",
+    "project_id": "device-streaming-aba6840e",
+    "storage_bucket": "device-streaming-aba6840e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389649979218:android:d72c55784fbb1e00ae8c8b",
+        "android_client_info": {
+          "package_name": "Kairo.s4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389649979218-dpj9fb6v3nbommk87ttrtdhuvavmi3ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Kairo.s4",
+            "certificate_hash": "3783eb274c92592fa82a3ac649042fce56383c2e"
+          }
+        },
+        {
+          "client_id": "389649979218-v4qor7j0nst6cq2ojdojkdlr9uf914bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABjpq4oJDdKgp7GxozyE7gyNHqy4CjGfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389649979218-v4qor7j0nst6cq2ojdojkdlr9uf914bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
